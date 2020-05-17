@@ -1,0 +1,1 @@
+You can select the convertion mode either in the program arguments ("1" for convertion from binary to decimary, "2" to convert otherwise) or while the program is already running. If you have selected the convertion mode in the program arguments, you can put the number to convert as the second argument.
